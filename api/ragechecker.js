@@ -13,7 +13,7 @@ let rage_counter = 3;
 export async function new_check() {
 
     const configuration = new Configuration({
-        apiKey: "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",
+        apiKey: "YOUR SECOND KEY HERE",
     });
     const openai = new OpenAIApi(configuration);
 
